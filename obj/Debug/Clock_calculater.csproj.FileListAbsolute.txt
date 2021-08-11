@@ -1,0 +1,10 @@
+D:\Code\side project\Clock_calculater\Clock_calculater\bin\Debug\Clock_calculater.exe.config
+D:\Code\side project\Clock_calculater\Clock_calculater\bin\Debug\Clock_calculater.exe
+D:\Code\side project\Clock_calculater\Clock_calculater\bin\Debug\Clock_calculater.pdb
+D:\Code\side project\Clock_calculater\Clock_calculater\obj\Debug\Clock_calculater.csproj.AssemblyReference.cache
+D:\Code\side project\Clock_calculater\Clock_calculater\obj\Debug\Clock_calculater.Properties.Resources.resources
+D:\Code\side project\Clock_calculater\Clock_calculater\obj\Debug\Clock_calculater.csproj.GenerateResource.cache
+D:\Code\side project\Clock_calculater\Clock_calculater\obj\Debug\Clock_calculater.csproj.CoreCompileInputs.cache
+D:\Code\side project\Clock_calculater\Clock_calculater\obj\Debug\Clock_calculater.exe
+D:\Code\side project\Clock_calculater\Clock_calculater\obj\Debug\Clock_calculater.pdb
+D:\Code\side project\Clock_calculater\Clock_calculater\obj\Debug\Clock_calculater.Form1.resources
