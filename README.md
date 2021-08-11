@@ -3,7 +3,8 @@
 這個專案是使用C#來去做撰寫，此專案有一個介面，支援視窗上按鈕或鍵盤輸入
 
 ## 畫面預覽和使用狀況
-  (圖片)
+  ![window](https://github.com/Relhely/Timer_Calculation/blob/main/Picture/Window.jpg)
+  ![Output](https://github.com/Relhely/Timer_Calculation/blob/main/Picture/Calculte_Output.jpg)
 
 ## 使用方法
   將影片時段扣掉冒號後直接輸入(目前僅支援0分0秒~99分59秒)，可透過鍵盤數字鍵輸入或是畫面上按鈕輸入
